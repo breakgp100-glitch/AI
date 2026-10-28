@@ -1,0 +1,15 @@
+2026-09-27 02:49:09,531 - bot - INFO - Users data has been imported from Database
+2026-09-27 02:49:09,664 - bot - INFO - Creating client from BOT_TOKEN
+2026-09-27 02:49:31,241 - bot - INFO - Get qBittorrent options from server
+2026-09-27 02:49:31,244 - bot - INFO - Get aria2 options from server
+2026-09-27 02:49:31,339 - bot - INFO - Get SABnzbd options from server
+2026-09-27 02:49:39,840 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-09-27 02:49:39,841 - apscheduler.scheduler - INFO - Added job "RSS" to job store "default"
+2026-09-27 02:49:39,841 - apscheduler.scheduler - INFO - Scheduler started
+2026-09-27 02:49:46,141 - bot - INFO - Creating Telegraph Account
+2026-09-27 02:49:59,842 - apscheduler.executors.default - INFO - Running job "RSS (trigger: interval[0:10:00], next run at: 2026-09-27 02:59:59 UTC)" (scheduled at 2026-09-27 02:49:59.839842+00:00)
+2026-09-27 02:49:59,843 - bot - WARNING - RSS_CHAT not added! Shutting down rss scheduler...
+2026-09-27 02:49:59,843 - apscheduler.executors.default - INFO - Job "RSS (trigger: interval[0:10:00], next run at: 2026-09-27 02:59:59 UTC)" executed successfully
+2026-09-27 02:49:59,847 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2026-09-27 02:50:01,444 - bot - INFO - Cleaning Download Directory
+2026-09-27 02:50:01,949 - bot - INFO - Bot Started!
